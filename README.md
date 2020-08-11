@@ -14,4 +14,4 @@ This is the simplest technique in collaborative filtering in which the recommend
 1.Find the K-nearest neighbors (KNN) to the user a, using a similarity function w to measure the distance between each pair of users:
 
 
-2.Predict the rating that user a will give to all items the k neighbors have consumed but a has not. We Look for the item j with the best predicted rating.
+2.Predict the rating that user a will give to all items the k neighbors have consumed but a has not. We Look for the item j with the best predicted rating..
